@@ -1,9 +1,27 @@
 [
   {
     "accent": "american",
+    "episode": "S1-E4",
+    "series": "Snowpiercer",
+    "url": "https://www.youtube.com/watch?v=MzzzJOHGwtU"
+  },
+  {
+    "accent": "american",
+    "episode": "S1-E9",
+    "series": "Mr. Robot",
+    "url": "https://www.youtube.com/watch?v=CPY-Ou8MR44"
+  },
+  {
+    "accent": "american",
     "episode": "S4-E6",
     "series": "Game Of Thrones",
     "url": "https://www.youtube.com/watch?v=e4Uq8O5ZhUA"
+  },
+  {
+    "accent": "american",
+    "episode": "S5-E16",
+    "series": "Friends",
+    "url": "https://www.youtube.com/watch?v=EPSpBrNyxQM"
   },
   {
     "accent": "british",
@@ -28,6 +46,12 @@
     "episode": "S1-E6",
     "series": "Behind Her Eyes",
     "url": "https://www.youtube.com/watch?v=HjxnwJwubvM"
+  },
+  {
+    "accent": "american",
+    "episode": "S1-E8",
+    "series": "Snowpiercer",
+    "url": "https://www.youtube.com/watch?v=rTwhu0xly3Q"
   },
   {
     "accent": "american",
