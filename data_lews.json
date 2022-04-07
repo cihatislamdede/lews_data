@@ -1,6 +1,24 @@
 [
   {
     "accent": "american",
+    "episode": "S3-E14",
+    "series": "Legacies",
+    "url": "https://www.youtube.com/watch?v=HTgBKpdBkKE"
+  },
+  {
+    "accent": "american",
+    "episode": "Chocolate Nuts",
+    "series": "SpongeBob",
+    "url": "https://www.youtube.com/watch?v=Bxpdqc84hQI"
+  },
+  {
+    "accent": "american",
+    "episode": "S1-E6",
+    "series": "Loki",
+    "url": "https://www.youtube.com/watch?v=qDCVmDJVWi0"
+  },
+  {
+    "accent": "american",
     "episode": "S1-E4",
     "series": "Snowpiercer",
     "url": "https://www.youtube.com/watch?v=MzzzJOHGwtU"
@@ -224,7 +242,7 @@
   {
     "accent": "british",
     "episode": "S4-E2",
-    "series": "Peaky Blinders", 
+    "series": "Peaky Blinders",
     "url": "https://www.youtube.com/watch?v=areYfycw71E"
   },
   {
